@@ -1,1 +1,0 @@
-# BOJ_ProblemSolve5000-6000
